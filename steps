@@ -1,0 +1,5 @@
+1) sudo apt update && apt upgrade
+
+2) wget "The version u want"
+
+3)  java -Xmx16G -Xms4G -jar paper.jar --nogui

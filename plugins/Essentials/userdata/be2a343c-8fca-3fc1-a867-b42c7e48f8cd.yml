@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725092490835
+  login: 1725093012821
+money: '0'
+last-account-name: ronaldosiu7
+lastlocation:
+  world: def92219-321f-4add-bf89-0846557a30ba
+  world-name: world
+  x: -3.318339633450532
+  y: 60.0
+  z: 43.42319172188012
+  yaw: 139.64996337890625
+  pitch: 6.8999762535095215
+logoutlocation:
+  world: def92219-321f-4add-bf89-0846557a30ba
+  world-name: world
+  x: -11.5
+  y: 68.5
+  z: 43.5
+  yaw: 100.95002746582031
+  pitch: -86.39997863769531
