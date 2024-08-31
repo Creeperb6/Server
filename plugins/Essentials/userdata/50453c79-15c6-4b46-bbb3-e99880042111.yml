@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724842383970
+  login: 1724842376269
+money: '0'
+last-account-name: AnOddGem
+logoutlocation:
+  world: 02c79803-db92-436d-b5b7-f5c3a2aa9d33
+  world-name: world
+  x: -472.2665649917116
+  y: 95.10726291718146
+  z: 77.83831977082872
+  yaw: 161.52276611328125
+  pitch: 32.11056137084961
